@@ -1,6 +1,6 @@
 # Java Spring Security MySql RESTApi Pet Clinic
 
-Bu proje bir RestApi servisidir, arayüz tanımlama dili olan Swagger olup arama kısımlarında Elasticsearch ve diary alanında redis kullanılarak web-service projesi daha kullanışlı bir hale getirilmiştir.
+Bu proje bir RestApi servisidir, arayüz tanımlama dili olan Swagger, arama kısımlarında Elasticsearch ve diary alanında redis kullanılarak web-service projesi daha kullanışlı bir hale getirilmiştir.
 ## Kullanılan Diller ve Yetenekler
 
 | Dil / Yetenek | :arrow_right: | % |
